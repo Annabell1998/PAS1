@@ -79,3 +79,4 @@ C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.In
 C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.dll
 C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.pdb
 >>>>>>> fc83d2cb26a75d1b9e2d88e1377453fe17f7430e
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Application.dll.config
