@@ -11,6 +11,7 @@ using System.Collections;
 
 namespace Dapper.Application.Repositories
 {
+    // Repositorio de usuario
     public interface IUsuarioRepository : IGenericRepository<Usuario>
     {
 
