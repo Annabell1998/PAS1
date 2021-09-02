@@ -1,4 +1,8 @@
-﻿using System;
+﻿
+using Dapper.Application.Repositories;
+using Dapper.Core.Entities;
+using Microsoft.Extensions.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

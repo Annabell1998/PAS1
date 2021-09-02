@@ -1,13 +1,12 @@
 ﻿using Dapper.Application.Repositories;
+using Dapper.Core.Entities;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dapper;
-using Microsoft.Extensions.Configuration;
-using Dapper.Core.Entities;
 
 namespace Dapper.Infrastructure.Repositories
 {
@@ -21,7 +20,6 @@ namespace Dapper.Infrastructure.Repositories
 
         public async Task<int> AddAsync(Usuario entity)
         {
-            //entity.Fecharegistro = DateTime.Now;
             var sql = "INSERT INTO dbo.usuario (email, password, fecharegistro) VALUES (@Email, @Password, @Fecharegistro)";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
@@ -37,7 +35,7 @@ namespace Dapper.Infrastructure.Repositories
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var result = await connection.ExecuteAsync(sql, id);
+                var result = await connection.ExecuteAsync(sql, new { Id = id });
                 return result;
             }
         }
@@ -59,7 +57,7 @@ namespace Dapper.Infrastructure.Repositories
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var result = await connection.QuerySingleOrDefaultAsync<Usuario>(sql, new { IdUsuario = id });
+                var result = await connection.QuerySingleOrDefaultAsync<Usuario>(sql, new { Id = id });
                 return result;
             }
         }

@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Dapper.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -27,6 +28,18 @@ namespace CriptomonedasProject
             services.AddInfrastructure();
             services.AddSingleton<IConfiguration>(Configuration);
             services.AddControllersWithViews();
+
+            //Dependencia de API Google
+            services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+
+            }).AddCookie(options => {
+                options.LoginPath = "/cuenta/google-login/";
+            }).AddGoogle(options => {
+                options.ClientId = "1039921424620-9hkdt0s3953b2b7r1s3qj0t52lbrajf8.apps.googleusercontent.com";
+                options.ClientSecret = "odcJ88O80zMOsA_CuabCOT0Q";
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +59,7 @@ namespace CriptomonedasProject
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
@@ -53,7 +67,7 @@ namespace CriptomonedasProject
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Login}/{id?}");
             });
         }
     }

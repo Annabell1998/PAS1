@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj": {}
+    "C:\\Users\\Kevin Salazar\\Desktop\\ProyectoAnalisisII\\CriptomonedasProject\\CriptomonedasProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj": {
+    "C:\\Users\\Kevin Salazar\\Desktop\\ProyectoAnalisisII\\CriptomonedasProject\\CriptomonedasProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Salazar\\Desktop\\ProyectoAnalisisII\\CriptomonedasProject\\CriptomonedasProject.csproj",
         "projectName": "CriptomonedasProject",
-        "projectPath": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj",
+        "projectPath": "C:\\Users\\Kevin Salazar\\Desktop\\ProyectoAnalisisII\\CriptomonedasProject\\CriptomonedasProject.csproj",
         "packagesPath": "C:\\Users\\Kevin Salazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Salazar\\Desktop\\ProyectoAnalisisII\\CriptomonedasProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Salazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[2.0.90, )"
             },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.9, )"
@@ -65,6 +69,10 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

@@ -35,3 +35,7 @@ C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\De
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.CopyComplete
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.dll
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.pdb
+C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.dll
+C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.pdb
