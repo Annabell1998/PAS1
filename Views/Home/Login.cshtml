@@ -1,0 +1,38 @@
+﻿@model Dapper.Core.Entities.Usuario
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    @using (Html.BeginForm("GetUsuarios", "Usuario", FormMethod.Post))
+    {
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    Email:
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Email)
+                </td>
+                <td>
+                    Pass:
+                </td>
+                <td>
+                    @Html.TextBoxFor(m => m.Password)
+                </td>
+                <td>
+                    <input type="submit" value="submit" />
+                </td>
+            </tr>
+        </table>
+        <input type="button" value="Google-Sigin" onclick="location.href='@Url.Action("googleLogin", "Usuario")'" />
+    }
+</body>
+</html>
