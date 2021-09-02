@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj": {}
+    "D:\\Users\\Usuario\\Documents\\TAREAS\\ANALISIS DE SISTEMAS II\\PROYECTO # 1\\Back-end Proyecto 1\\CriptomonedasProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj": {
+    "D:\\Users\\Usuario\\Documents\\TAREAS\\ANALISIS DE SISTEMAS II\\PROYECTO # 1\\Back-end Proyecto 1\\CriptomonedasProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj",
+        "projectUniqueName": "D:\\Users\\Usuario\\Documents\\TAREAS\\ANALISIS DE SISTEMAS II\\PROYECTO # 1\\Back-end Proyecto 1\\CriptomonedasProject.csproj",
         "projectName": "CriptomonedasProject",
-        "projectPath": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\CriptomonedasProject.csproj",
-        "packagesPath": "C:\\Users\\Kevin Salazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Salazar\\Desktop\\CriptomonedasProject\\obj\\",
+        "projectPath": "D:\\Users\\Usuario\\Documents\\TAREAS\\ANALISIS DE SISTEMAS II\\PROYECTO # 1\\Back-end Proyecto 1\\CriptomonedasProject.csproj",
+        "packagesPath": "C:\\Users\\VICTOR\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Usuario\\Documents\\TAREAS\\ANALISIS DE SISTEMAS II\\PROYECTO # 1\\Back-end Proyecto 1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kevin Salazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\VICTOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net5.0": {
@@ -89,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

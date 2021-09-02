@@ -53,6 +53,11 @@ namespace Dapper.Infrastructure.Repositories
             }
         }
 
+        public Task<IReadOnlyList<Usuario>> GetByEmailAsync(string email)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<Usuario> GetByIdAsync(int id)
         {
             var sql = "SELECT * FROM dbo.usuario WHERE idusuario = @IdUsuario";

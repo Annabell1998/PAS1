@@ -56,3 +56,6 @@ C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\obj\Debug\net5.0\Criptomoned
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\obj\Debug\net5.0\ref\CriptomonedasProject.dll
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\obj\Debug\net5.0\CriptomonedasProject.pdb
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\obj\Debug\net5.0\CriptomonedasProject.genruntimeconfig.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\obj\Debug\net5.0\CriptomonedasProject.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\obj\Debug\net5.0\ref\CriptomonedasProject.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\obj\Debug\net5.0\CriptomonedasProject.pdb

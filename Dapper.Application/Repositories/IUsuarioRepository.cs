@@ -9,6 +9,6 @@ namespace Dapper.Application.Repositories
 {
     public interface IUsuarioRepository: IGenericRepository<Usuario>
     {
-
+        Task<IReadOnlyList<Usuario>> GetByEmailAsync(string email);
     }
 }
