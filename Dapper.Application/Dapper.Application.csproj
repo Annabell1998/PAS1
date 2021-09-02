@@ -43,6 +43,7 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Repositories\ICriptomonedaRepository.cs" />
     <Compile Include="Repositories\IGenericRepository.cs" />
     <Compile Include="Repositories\IUnitOfWork.cs" />
     <Compile Include="Repositories\IUsuarioRepository.cs" />

@@ -10,3 +10,15 @@ C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Application\obj\Debug
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.csproj.CopyComplete
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.dll
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Dapper.Application.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Dapper.Application.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Dapper.Core.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\bin\Debug\Dapper.Core.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\obj\Debug\Dapper.Application.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\obj\Debug\Dapper.Application.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\obj\Debug\Dapper.Application.csproj.CopyComplete
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\obj\Debug\Dapper.Application.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Application\obj\Debug\Dapper.Application.pdb

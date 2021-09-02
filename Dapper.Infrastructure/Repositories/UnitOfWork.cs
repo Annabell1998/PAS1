@@ -9,10 +9,16 @@ namespace Dapper.Infrastructure.Repositories
 {
     public class UnitOfWork: IUnitOfWork
     {
-        public UnitOfWork(IUsuarioRepository usuarioRepository)
+        public UnitOfWork(
+            IUsuarioRepository usuarioRepository,
+            ICriptomonedaRepository criptomonedaRepository
+            )
         {
             Usuarios = usuarioRepository;
+            Criptomoneda = criptomonedaRepository;
         }
         public IUsuarioRepository Usuarios { get; }
+
+        public ICriptomonedaRepository Criptomoneda { get; }
     }
 }

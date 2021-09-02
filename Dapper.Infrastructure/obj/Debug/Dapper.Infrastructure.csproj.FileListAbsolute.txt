@@ -35,3 +35,40 @@ C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\De
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.CopyComplete
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.dll
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Infrastructure.dll.config
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Infrastructure.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Infrastructure.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Application.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Core.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Buffers.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Data.SqlClient.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Memory.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.ValueTuple.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Application.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.Core.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Dapper.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Buffers.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Data.SqlClient.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Memory.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\bin\Debug\System.ValueTuple.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\Dapper.Infrastructure\obj\Debug\Dapper.Infrastructure.csproj.CopyComplete
