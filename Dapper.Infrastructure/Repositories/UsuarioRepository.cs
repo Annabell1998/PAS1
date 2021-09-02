@@ -1,4 +1,4 @@
-﻿using Dapper.Application.Repositories;
+﻿using Dapper.Application.Interfaces;
 using Dapper.Core.Entities;
 using Microsoft.Extensions.Configuration;
 using System;

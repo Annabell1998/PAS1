@@ -1,4 +1,4 @@
-﻿using Dapper.Application.Repositories;
+﻿using Dapper.Application.Interfaces;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace CriptomonedasProject.Controllers
 {
+
     public class UsuarioController : Controller
     {
         private readonly IUnitOfWork unitOfWork;
@@ -26,7 +27,7 @@ namespace CriptomonedasProject.Controllers
         }
 
         [AllowAnonymous, Route("/Usuario/googleLogin")]
-        [Route("google-login")]
+        //[Route("google-login")]
         public IActionResult GoogleLogin()
         {
             var properties = new AuthenticationProperties { RedirectUri = Url.Action("GoogleResponse") };

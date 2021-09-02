@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dapper.Application.Repositories
+namespace Dapper.Application.Interfaces
 {
     public interface ICriptomonedaRepository : IGenericRepository<Criptomoneda>
     {

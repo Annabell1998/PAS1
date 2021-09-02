@@ -8,3 +8,13 @@ C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Core\obj\Debug\Dapper
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Core\obj\Debug\Dapper.Core.dll
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Core\obj\Debug\Dapper.Core.pdb
 C:\Users\Kevin Salazar\Desktop\CriptomonedasProject\Dapper.Core\obj\Debug\Dapper.Core.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\bin\Debug\Dapper.Core.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\bin\Debug\Dapper.Core.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\obj\Debug\Dapper.Core.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\obj\Debug\Dapper.Core.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\obj\Debug\Dapper.Core.csproj.CopyComplete
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\obj\Debug\Dapper.Core.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Core\obj\Debug\Dapper.Core.pdb

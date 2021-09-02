@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CriptomonedasProject.Controllers
+namespace CriptomonedasProject.Login
 {
     public class Login : Controller
     {

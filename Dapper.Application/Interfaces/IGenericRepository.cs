@@ -1,5 +1,5 @@
 ﻿
-using Dapper.Application.Repositories;
+using Dapper.Application.Interfaces;
 using Dapper.Core.Entities;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dapper.Application.Repositories
+namespace Dapper.Application.Interfaces
 {
     public interface IGenericRepository<T> where T : class
     {

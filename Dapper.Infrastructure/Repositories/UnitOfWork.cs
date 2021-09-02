@@ -1,4 +1,4 @@
-﻿using Dapper.Application.Repositories;
+﻿using Dapper.Application.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

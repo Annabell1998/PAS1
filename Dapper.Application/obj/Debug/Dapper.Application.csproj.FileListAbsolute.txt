@@ -22,3 +22,32 @@ C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Ap
 C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.csproj.CopyComplete
 C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.dll
 C:\Users\Kevin Salazar\Desktop\ProyectoAnalisisII\CriptomonedasProject\Dapper.Application\obj\Debug\Dapper.Application.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Dapper.Application.dll.config
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Dapper.Application.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Dapper.Application.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Dapper.Core.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Analytics.Types.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Buffers.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Memory.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.ValueTuple.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Dapper.Core.pdb
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Buffers.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Memory.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\bin\Debug\System.ValueTuple.xml
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\obj\Debug\Dapper.Application.csproj.AssemblyReference.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\obj\Debug\Dapper.Application.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\obj\Debug\Dapper.Application.csproj.CopyComplete
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\obj\Debug\Dapper.Application.dll
+D:\Users\Usuario\Documents\TAREAS\ANALISIS DE SISTEMAS II\PROYECTO # 1\Back-end Proyecto 1\PAS1\Dapper.Application\obj\Debug\Dapper.Application.pdb
