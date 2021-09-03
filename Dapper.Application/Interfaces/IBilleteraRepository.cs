@@ -9,6 +9,6 @@ namespace Dapper.Application.Interfaces
 {
     public interface IBilleteraRepository : IGenericRepository<Billetera>
     {
-
+        
     }
 }

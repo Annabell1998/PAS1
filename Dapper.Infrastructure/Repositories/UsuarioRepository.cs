@@ -51,6 +51,32 @@ namespace Dapper.Infrastructure.Repositories
             }
         }
 
+        // Obtiene registro por email
+        public async Task<Usuario> GetByEmailAsync(string email, string passGerenic, int flag)
+        {
+            string sql;
+
+            using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
+            {
+                Usuario result;
+                // Si la bandera toma valor 1, entonces lo buscará por email y password
+                if (flag == 1)
+                {
+                    sql = "SELECT * FROM dbo.usuario WHERE email = @Email AND password = @Password";
+                    connection.Open();
+                    result = await connection.QuerySingleOrDefaultAsync<Usuario>(sql, new { Email = email, Password = passGerenic });
+                    return result;
+                } else
+                {// De lo contrario lo buscará solo por Email
+                    sql = "SELECT * FROM dbo.usuario WHERE email = @Email";
+                    connection.Open();
+                    result = await connection.QuerySingleOrDefaultAsync<Usuario>(sql, new { Email = email});
+                    return result;
+                }
+                
+            }
+        }
+
         public async Task<Usuario> GetByIdAsync(int id)
         {
             var sql = "SELECT * FROM dbo.usuario WHERE idusuario = @IdUsuario";
@@ -62,6 +88,19 @@ namespace Dapper.Infrastructure.Repositories
             }
         }
 
+        // Obtiene registro por Email y contraseña
+        public async Task<Usuario> GetByUsuarioAsync(string email, string password)
+        {
+            var sql = "SELECT * FROM dbo.usuario WHERE email = @Email AND password = @Password";
+            using(var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
+            {
+                connection.Open();
+                var result = await connection.QuerySingleOrDefaultAsync<Usuario>(sql, new { Email = email, Password = password });
+                return result;
+            }
+        }
+
+        // Actualiza registro
         public async Task<int> UpdateAsync(Usuario entity)
         {
             var sql = "UPDATE dbo.usuario SET email = @Email, password = @Password, fecharegistro = @Fecharegistro WHERE idusuario = @IdUsuario";

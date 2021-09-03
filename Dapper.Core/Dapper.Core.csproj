@@ -44,8 +44,11 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Billetera.cs" />
     <Compile Include="Entities\Criptomoneda.cs" />
+    <Compile Include="Entities\TipoOperacion.cs" />
     <Compile Include="Entities\Transaccion.cs" />
+    <Compile Include="Entities\TransaccionDetalle.cs" />
     <Compile Include="Entities\Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
