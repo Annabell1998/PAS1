@@ -10,5 +10,10 @@ namespace Dapper.Application.Interfaces
     {
         IUsuarioRepository Usuarios { get; }
         ICriptomonedaRepository Criptomoneda { get; }
+        IBilleteraRepository Billetera { get; }
+        ITipoOperacionRepository TipoOperacion { get; }
+        ITransaccionRepository Transaccion { get; }
+
+       
     }
 }
