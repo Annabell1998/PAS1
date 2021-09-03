@@ -79,6 +79,7 @@
   <ItemGroup>
     <Compile Include="Repositories\CriptomonedaRepository.cs" />
     <Compile Include="Repositories\ServiceRegistration.cs" />
+    <Compile Include="Repositories\TransaccionRepository.cs" />
     <Compile Include="Repositories\UnitOfWork.cs" />
     <Compile Include="Repositories\UsuarioRepository.cs" />
   </ItemGroup>

@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Criptomoneda.cs" />
+    <Compile Include="Entities\Transaccion.cs" />
     <Compile Include="Entities\Usuario.cs" />
   </ItemGroup>
   <ItemGroup>

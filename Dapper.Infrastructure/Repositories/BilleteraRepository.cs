@@ -10,74 +10,66 @@ using System.Threading.Tasks;
 
 namespace Dapper.Infrastructure.Repositories
 {
-    public class CriptomonedaRepository : ICriptomonedaRepository
+    public class BilleteraRepository : IBilleteraRepository
     {
         private readonly IConfiguration configuration;
 
-        public CriptomonedaRepository(
+        public BilleteraRepository(
                 IConfiguration configuration
             )
         {
             this.configuration = configuration;
         }
-
-        // Agrega un registro
-        public async Task<int> AddAsync(Criptomoneda entity)
+        public async Task<int> AddAsync(Billetera entity)
         {
-            var sql = "INSERT INTO dbo.criptomoneda (idcriptomoneda, nombre, precio) VALUES (@Id, @Nombre, @Precio)";
+            var sql = "INSERT INTO dbo.billetera (idUsuario, nombre, saldo) VALUES (@IdUsuario, @Nombre, @Saldo)";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
                 var result = await connection.ExecuteAsync(sql, entity);
                 return result;
             }
-
         }
 
-        // Elimina un registro por ID
         public async Task<int> DeleteAsync(int id)
         {
-            var sql = "DELETE FROM dbo.criptomoneda WHERE idcriptomoneda = @Id";
+            var sql = "DELETE FROM dbo.billetera WHERE idbilletera = @Id";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var result = await connection.ExecuteAsync(sql, new { Id = id });
+                var result = await connection.ExecuteAsync(sql, new { Id = id});
                 return result;
             }
         }
 
-        // Obtiene todos los registros
-        public async Task<IReadOnlyList<Criptomoneda>> GetAllAsync()
+        public async Task<IReadOnlyList<Billetera>> GetAllAsync()
         {
-            var sql = "SELECT * FROM dbo.criptomoneda ORDER BY idcriptomoneda";
+            var sql = "SELECT * FROM dbo.billetera ORDER BY idbilletera";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var result = await connection.QueryAsync<Criptomoneda>(sql);
+                var result = await connection.QueryAsync<Billetera>(sql);
                 return result.ToList();
             }
-
         }
 
-        // Obtiene registro por ID
-        public async Task<Criptomoneda> GetByIdAsync(int id)
+        public async Task<Billetera> GetByIdAsync(int id)
         {
-            var sql = "SELECT * FROM dbo.criptomoneda WHERE idcriptomoneda = @Id";
+            var sql = "SELECT * FROM dbo.billetera WHERE idbilletera = @Id";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
-                var result = await connection.QuerySingleOrDefaultAsync<Criptomoneda>(sql, new { Id = id });
+                var result = await connection.QuerySingleOrDefaultAsync<Billetera>(sql, new { Id = id });
                 return result;
             }
         }
 
-        // Actualiza los campos del registro
-        public async Task<int> UpdateAsync(Criptomoneda entity)
+        public async Task<int> UpdateAsync(Billetera entity)
         {
-            var sql = "UPDATE dbo.criptomoneda" +
-                "         SET nombre = @Nombre," +
-                "             precio = @Precio" +
-                "       WHERE idcriptomoneda = @Id";
+            var sql = "UPDATE dbo.billetera" +
+                "         SET nombre = @Nombre" +
+                "       WHERE idbilletera = @Id"
+                ;
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
