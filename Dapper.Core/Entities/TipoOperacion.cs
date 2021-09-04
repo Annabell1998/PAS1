@@ -8,5 +8,7 @@ namespace Dapper.Core.Entities
 {
     public class TipoOperacion
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
     }
 }

@@ -15,6 +15,10 @@ namespace Dapper.Infrastructure.Repositories
         {
             services.AddTransient<IUsuarioRepository, UsuarioRepository>();
             services.AddTransient<ICriptomonedaRepository, CriptomonedaRepository>();
+            services.AddTransient<IBilleteraRepository, BilleteraRepository>();
+            services.AddTransient<ITipoOperacionRepository, TipoOperacionRepository>();
+            services.AddTransient<ITransaccionRepository, TransaccionRepository>();
+
             services.AddTransient<IUnitOfWork, UnitOfWork>();
         }
     }

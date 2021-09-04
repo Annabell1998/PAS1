@@ -4,5 +4,10 @@
         <name>CriptomonedasProject</name>
     </assembly>
     <members>
+        <member name="T:Dapper.Application.Interfaces.IGenericRepository`1">
+            Esta interfaz genérica contendrá todos los métodos básicos para ejecutarse en una base de datos.
+            
+            Dicha interfaz será heredada en los demás repositorios futuros
+        </member>
     </members>
 </doc>
